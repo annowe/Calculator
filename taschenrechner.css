@@ -1,0 +1,31 @@
+#idAusgabe{
+	text-align: right;
+}
+
+#idAddition{
+	background-color: grey;
+}
+
+#idSubtraktion{
+	background-color: grey;
+}
+
+#idMultiplikation{
+	background-color: grey;
+}
+
+#idDivision{
+	background-color: grey;
+}
+
+#idGleich{
+	background-color: grey;
+}
+
+div{
+	background-color: lightgrey;
+	text-align: center;
+	width: 140px;
+	padding: 1px;
+}
+	
